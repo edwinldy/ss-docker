@@ -18,6 +18,7 @@ RUN apk upgrade --update \
         build-base \
         curl \
         libev-dev \
+        libc-ares-dev \
         libtool \
         linux-headers \
         udns-dev \
